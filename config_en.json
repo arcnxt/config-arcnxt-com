@@ -449,7 +449,7 @@
 "layout":"wallet",
 "icon":"heart_solid",
 "fontFamily":"CupertinoIcons",
-"label":"Wishlist",
+"label":"Wallet",
 "defaultTab":false,
 "fullscreen":false,
 "showOriginalColor":false
