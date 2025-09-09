@@ -452,7 +452,8 @@
 "label":"Wallet",
 "defaultTab":false,
 "fullscreen":false,
-"showOriginalColor":false
+"showOriginalColor":false,
+"requiredLogin":true,
 },
 {
 "key":"iXLTfwZScigcyX",
